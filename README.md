@@ -9,7 +9,7 @@ Embedded Software, Embedded Hardware, Printed Circuit Board (PCB) Design, Python
 
 
 
-## Other Common Github Profile Sections
+## Currently Doing..
 ◼️ I'm currently working on a Flight Control Computer of a Sounding Model Rocket Project, a Vending Machine Project and, an Unmanned Arial Vheicle Project 
 
 ◼️ I'm currently learning Machine Learning, Computer Vision (OpenCV)
